@@ -1,4 +1,4 @@
 # Developing Landscape changes
 
 ## Initial Branch setup 
-![initialbranches.png]
+![./initialbranches.png]
